@@ -34,7 +34,7 @@
 
 **On A Budget is a simple Google spreadsheet to track your expenses, incomes
 and budgets. That's it. Only what you need, carefully designed by people who
-needed the same tool than you while still controling it entirely. It saves you
+needed the same tool than you while still controlling it entirely. It saves you
 the hassle of searching for apps or resources and let you start now to grow
 your finance.**
 
@@ -48,22 +48,19 @@ your finance.**
 
 This repository will serve 2 important purposes for power users:
 
-- Gethering feedback, issues and suggestions
-- Start tech-related features, like coonad line interfaces, Google
+- Gathering feedback, issues and suggestions
+- Start tech-related features, like command line interfaces, Google
 scripts, frontends, you name it.
 
 Stay tune.
 
 <br/>
 <br/>
-<br/>
 
 
-
-## Showcase
-
-
-<p align="center"><img src="assets/placeholder.png" width="450"></p>
+<p align="center">
+  <img src="assets/showoff.svg" width="550">
+  </p>
 
 
 ## Acknowledgments
