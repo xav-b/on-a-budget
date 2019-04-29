@@ -4,18 +4,18 @@
 	<br />
 	<br />
 	<br />
-  <a href="http://onabudget.co/">
+  <a href="https://onabudget.works/">
     <img alt="GitPoint" title="GitPoint" src="assets/piggy.png" width="100">
   </a>
 	<br />
-	<h3><a href="http://onabudget.co">On A Budget</a></h3>
+	<h3><a href="https://onabudget.works">On A Budget</a></h3>
 	<br />
 	<br />
 	<sup>
 	<br />
 	<br />
 	The little spreadsheet that could. <a
-	target="_blank" href="http://onabudget.co">Go get it</a>.
+	target="_blank" href="https://onabudget.works">Go get it</a>.
 	<br />
 	</sup>
 	<br />
@@ -77,7 +77,7 @@ Stay tune.
   <sub>The little spreadsheet that could.
 	<br/>Built by
   <a href="https://twitter.com/yoshuawuyts">Brigida Ranieri</a> and
-  <a href="https://github.com/xav-b/onabudget-support/graphs/contributors">
+  <a href="https://github.com/xav-b/on-a-budget/graphs/contributors">
     contributors
   </a>
 	<br/>with a </i>💻<i> and some </i>🍣
